@@ -20,6 +20,12 @@ public class CoinFlip {
 	{
 		Scanner userInput = new Scanner(System.in);
 		System.out.println("How many times would you like to flip the coin?");
+		//comment from COMMENT BRANCH
+		//
+		//
+		//
+		//
+		//
 		
 		int coinNumber = userInput.nextInt();
 		for (int i=1;i<=coinNumber;i++)
